@@ -4,3 +4,4 @@ snowflake-sqlalchemy
 typing-extensions
 apache-superset[cors]
 cassandra-driver
+base
